@@ -27,32 +27,6 @@
 
 ---
 
-## 🚀 Premium Projects Showcase
-
-### 🚗 RideHub — Smart Vehicle Rental System  
-> A modern platform for renting verified vehicles with flexible booking  
-
-<p align="center">
-  <img src="https://kunj272006.github.io/ridehub-landing-page/" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kunj272006/RideHub">
-    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Js-yellow?style=for-the-badge&logo=Js" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
