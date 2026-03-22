@@ -76,7 +76,7 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kunj272006?theme=dark&font=baloo&border=0" />
+  <img src="https://leetcode.com/u/KunjSodhi/theme=dark&font=baloo&border=0" />
 </p>
 
 ---
