@@ -33,7 +33,7 @@
 > A modern platform for renting verified vehicles with flexible booking  
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/0f2027/00f7ff?text=RideHub+Preview" />
+  <img src="https://kunj272006.github.io/ridehub-landing-page/" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Js-yellow?style=for-the-badge&logo=Js" />
 </p>
 
 ---
