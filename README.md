@@ -65,7 +65,7 @@
 </p>
 ---
 
-## 🐍 Contribution Snake (Ultra Pro)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kunj272006/Kunj272006/output/github-contribution-grid-snake.svg" />
