@@ -63,7 +63,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kunj272006&theme=onestar&no-frame=true&margin-w=15" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake (Ultra Pro)
