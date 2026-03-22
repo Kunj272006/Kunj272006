@@ -73,10 +73,12 @@
 
 ---
 
-## 💻 LeetCode Stats
+## 💻 LeetCode
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=KunjSodhi&theme=dark" />
+  <a href="https://leetcode.com/u/KunjSodhi/">
+    <img src="https://img.shields.io/badge/LeetCode-KunjSodhi-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
