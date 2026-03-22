@@ -5,7 +5,7 @@
 
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%7C+ML+Explorer;Web+Developer;Building+RideHub;Consistency+%3D+Success;Vibe+Coding+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%7C+ML+Explorer;Web+Developer;Building+Projects;Consistency+%3D+Success;Vibe+Coding+Enthusiast" />
 </p>
 
 ---
