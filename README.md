@@ -27,17 +27,29 @@
 
 ---
 
-## 🔥 Featured Project
+## 🚀 Premium Projects Showcase
 
-### 🚗 RideHub — Smart Vehicle Rental System
-> A modern platform for renting verified vehicles with flexible booking
+### 🚗 RideHub — Smart Vehicle Rental System  
+> A modern platform for renting verified vehicles with flexible booking  
 
-✨ Features:
-- ✅ Verified Vehicles  
-- 🎁 1 Day Free Scheme  
-- ⏱️ Flexible Time Extension  
-- 📱 Clean UI  
-- 🔐 Trust-based system  
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/0f2027/00f7ff?text=RideHub+Preview" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kunj272006/RideHub">
+    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Demo-00f7ff?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+</p>
 
 ---
 
@@ -58,11 +70,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunj272006&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunj272006&show_icons=true&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -81,10 +94,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/KunjSodhi?ext=heatmap" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -97,10 +106,6 @@
 
 ---
 
-## 💡 Quote I Follow
-> "Discipline will take you places motivation can't."
-
----
 
 ## ⭐ Support
 If you like my work, give a ⭐ and follow me 🚀
