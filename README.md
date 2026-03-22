@@ -81,6 +81,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KunjSodhi?ext=heatmap" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
