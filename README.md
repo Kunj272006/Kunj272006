@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunj272006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunj272006&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kunj272006&theme=onestar&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunj272006&theme=tokyo-night" />
 </p>
 
 ---
