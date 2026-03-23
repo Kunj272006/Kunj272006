@@ -37,15 +37,6 @@
 
 ---
 
-## 🚀 Projects Showcase
-
-<p align="center">
-  <a href="https://github.com/Kunj272006/RideHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunj272006&repo=RideHub&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
