@@ -12,9 +12,9 @@
 
 ## 🧠 About Me
 - 🎓 B.Tech CSE (AI & ML) Student  
-- 🚀 Currently building **RideHub**  
+- 🚀 Building real-world projects  
 - 💻 Skills: HTML, CSS, Python, Basic Java  
-- ⚡ Exploring **AI + Real-world Projects**  
+- ⚡ Exploring AI + Development  
 - 🎯 Goal: Become a top developer & build impactful products  
 - 🔥 Bonus: *Yes, I believe in Vibe Coding 😎*  
 
@@ -23,6 +23,26 @@
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,java,git,github" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://kunj272006.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00f7ff?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🚀 Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/Kunj272006/RideHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunj272006&repo=RideHub&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -40,14 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunj272006&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunj272006&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -80,6 +92,10 @@
 
 ---
 
+## 💡 Quote
+> "Discipline will take you places motivation can't."
+
+---
 
 ## ⭐ Support
 If you like my work, give a ⭐ and follow me 🚀
